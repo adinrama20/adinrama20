@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 📫 Reach me at adinrama@student.ub.ac.id
 - 😄 Pronouns: he/him
 
-### Programming Languages and Tools
-![java-script](https://github.com/adinrama20/adinrama20/assets/95278908/b25501d9-301a-4a8a-9124-78fdd66b7e6a) ![java](https://github.com/adinrama20/adinrama20/assets/95278908/7e02fa37-8f94-4c49-8212-799f3cdd5687)
+## Programming Languages and Tools
+![java](https://github.com/adinrama20/adinrama20/assets/95278908/6d36b39c-2d2f-46db-883a-42feb55577cf) ![java-script](https://github.com/adinrama20/adinrama20/assets/95278908/e27cae05-4f31-4b02-9258-36495e5969ad)
