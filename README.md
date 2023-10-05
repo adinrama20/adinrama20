@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 ### Programming Languages and Tools
-![java](https://github.com/adinrama20/adinrama20/assets/95278908/94a42335-bc03-4e9e-8c62-8d0941f222fc) ![java-script](https://github.com/adinrama20/adinrama20/assets/95278908/f1f8a3bf-d817-4163-b952-12017c436908)
-
-
+![java-script](https://github.com/adinrama20/adinrama20/assets/95278908/ff57ab3d-0f4d-4949-9935-9d7e0d9e4b4f) ![java](https://github.com/adinrama20/adinrama20/assets/95278908/d5bdbdfb-7a0b-4ed5-8313-4d658144e97a)
